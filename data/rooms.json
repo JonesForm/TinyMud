@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "The Starting Room",
+    "description": "You are in a dimly lit starting room. The walls are made of rough stone, and a faint light emanates from a crack in the ceiling. The air is cool and smells of damp earth. There is an exit to the north.",
+    "exits": {
+      "north": 2
+    }
+  },
+  {
+    "id": 2,
+    "name": "A Long Hallway",
+    "description": "You are in a long, winding hallway. Torches flicker on the walls, casting dancing shadows. The path seems to stretch on endlessly. There is a small room to the south.",
+    "exits": {
+      "south": 1
+    }
+  }
+]
